@@ -36,7 +36,7 @@ export class ShotChart extends React.Component {
           .shotRenderThreshold(this.props.minCount)
           .displayToolTips(this.props.displayToolTips)
           .displayType(this.props.chartType);
-        console.log(this.props.displayToolTips);
+          console.log(this.props.minCount);
         courtSelection.call(chart_court);
         courtSelection.datum(final_shots).call(chart_shots);
       });
