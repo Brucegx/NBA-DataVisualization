@@ -16,7 +16,7 @@ In general, I built a dashboard to visualize individual NBA player's shot data. 
 1. I built a goals-number filter which you can find the player shots data in given number. 
 2. I used the color and hexbin size to represent the efficiency and frequency which can provide more detailed visualization areas with made shots straightforwardly. 
 
-![Example](https://image.ibb.co/dXuGAS/Screenshot_2018_03_30_18_38_04_EDT.png)
+![Example](https://image.ibb.co/bLybAS/Screenshot_2018_03_30_18_38_36_EDT.png)
 
 For example, like Stephen Curry
 From this chart we can know he preferred to shotting on slight right of three point line. He shotted on this position at least 6 times with high accuracy. 
